@@ -1,5 +1,5 @@
 {
-  "name": "@mihonninja/mup",
+  "name": "@mihon/mup",
   "version": "1.4.6",
   "description": "Production Quality Meteor Deployments (fork by mihonninjs)",
   "main": "lib/index.js",
