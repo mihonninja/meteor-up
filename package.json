@@ -1,11 +1,11 @@
 {
-  "name": "mup",
-  "version": "1.4.5",
-  "description": "Production Quality Meteor Deployments",
+  "name": "@mihonninja/mup",
+  "version": "1.4.6",
+  "description": "Production Quality Meteor Deployments (fork by mihonninjs)",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zodern/meteor-up.git"
+    "url": "git+https://github.com/mihonninja/meteor-up.git"
   },
   "keywords": [
     "meteor",
